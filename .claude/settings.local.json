@@ -1,0 +1,11 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(source venv/bin/activate)",
+      "Bash(pip install:*)",
+      "Bash(source ../venv/bin/activate)",
+      "Bash(python:*)",
+      "mcp__ide__getDiagnostics"
+    ]
+  }
+}
