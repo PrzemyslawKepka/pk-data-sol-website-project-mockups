@@ -18,7 +18,7 @@ from diagrams.programming.language import Python
 # Custom icon path
 SCRIPT_DIR = os.path.dirname(os.path.abspath(__file__))
 ICON_DIR = "custom-icons"
-TERADATA_ICON = os.path.join(SCRIPT_DIR, ICON_DIR, "icons8-teradata-48.png")
+TERADATA_ICON = os.path.join(SCRIPT_DIR, ICON_DIR, "id63eny4V8_1769062761471.png")
 
 # Output settings
 OUTPUT_FILENAME = "customer_opinions_etl_architecture"
